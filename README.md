@@ -51,7 +51,7 @@ All testing artifacts are structured and linked below:
 - **[Test Cases](https://github.com/Dobryev-qa/Mobile/blob/main/Test_Cases.md)**  
   Manual test cases for main app features.
 
-- **[Exploratory Testing](https://github.com/Dobryev-qa/Mobile/blob/main/Exploratory_Testing)**  
+- **[Exploratory Testing](https://github.com/Dobryev-qa/Mobile/blob/main/Exploratory_Testing.md)**  
   Exploratory testing where the app was freely tested to find bugs and unexpected behavior.
 
 - **[Bug Reports](https://github.com/Dobryev-qa/Mobile/blob/main/Bugs_report.md)**  
