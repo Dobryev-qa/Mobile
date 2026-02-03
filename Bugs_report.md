@@ -1,4 +1,69 @@
-# Bug Report – Bug_001
+# Bug Report – BUG-001
+
+## Summary
+App crashes on relaunch after being fully closed.
+
+---
+
+## Project Information
+- **Project:** Homebody Challenge  
+- **Platform:** iOS (Mobile App)  
+
+
+---
+
+## Environment
+- **Device:** iPhone 11  
+- **OS Version:** iOS 18.4  
+- **Build Type:** Debug 
+
+---
+
+## Preconditions
+- Application is installed on the device
+- Application was launched successfully at least once
+
+---
+
+## Steps to Reproduce
+1. Launch the application
+2. Close the application
+3. Open the app switcher
+4. Swipe up to fully close the application
+5. Tap the app icon on the Home screen to launch the app again
+
+---
+
+## Expected Result
+- App opens normally
+- App remains visible on the screen
+
+---
+
+## Actual Result
+- App starts launch animation
+- App crashes immediately during launch
+- App does not appear on the screen
+- App is not visible in the app switcher after the crash
+
+---
+
+## Severity
+**Critical**
+
+---
+
+## Priority
+**High**
+
+---
+
+## Logs
+- No crash logs or error messages are shown in the console
+
+## Evidence
+---
+# Bug Report – Bug_002
 
 ## Summary
 Black screen after deleting an active challenge via swipe
@@ -68,9 +133,6 @@ Dmytro Dobryev
 **High**
 
 ---
-
-## Notes
-
 
 ## Evidence
 - Video recording / screenshots can be attached
