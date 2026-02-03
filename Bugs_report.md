@@ -7,7 +7,7 @@ App crashes on relaunch after being fully closed.
 
 ## Project Information
 - **Project:** Homebody Challenge  
-- **Platform:** iOS (Mobile App)  
+- **Platform:** iOS (Mobile)  
 
 
 ---
@@ -62,6 +62,7 @@ App crashes on relaunch after being fully closed.
 - No crash logs or error messages are shown in the console
 
 ## Evidence
+![Bug 001 – App crash on relaunch](https://raw.githubusercontent.com/Dobryev-qa/Mobile/main/Bugs_Evidence/bug_001.gif)
 ---
 # Bug Report – Bug_002
 
@@ -84,19 +85,9 @@ Black screen after deleting an active challenge via swipe
 
 ---
 
-## Reporter
-Dmytro Dobryev  
-
----
-
-## Date
-01.01.2025  
-
----
-
 ## Preconditions
 - At least one active challenge exists  
-- User is logged into the app (default state)  
+- User is logged into the app 
 - User is on the **Active** screen  
 
 ---
@@ -135,4 +126,4 @@ Dmytro Dobryev
 ---
 
 ## Evidence
-- Video recording / screenshots can be attached
+![Bug 002 – App crash on relaunch](https://raw.githubusercontent.com/Dobryev-qa/Mobile/main/Bugs_Evidence/Bug_002.gif)
