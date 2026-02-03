@@ -37,7 +37,7 @@ This repository demonstrates **manual QA work** performed on the mobile applicat
 All testing artifacts are structured and linked below:
 
 - **[User Stories](https://github.com/Dobryev-qa/Mobile/blob/main/User_Stories.md)**  
-   User requirements describing what the app should do from the user point of view.
+  User requirements describing what the app should do from the user point of view.
 
 - **[Acceptance Criteria](https://github.com/Dobryev-qa/Mobile/blob/main/Accept_Criteria.md)**  
   Rules that explain when a user story is completed successfully.
@@ -51,7 +51,9 @@ All testing artifacts are structured and linked below:
 - **[Test Cases](https://github.com/Dobryev-qa/Mobile/blob/main/Test_Cases.md)**  
   Manual test cases for main app features.
 
+- **[Exploratory Testing](https://github.com/Dobryev-qa/Mobile/blob/main/Exploratory_Testing)**  
+  Exploratory testing where the app was freely tested to find bugs and unexpected behavior.
+
 - **[Bug Reports](https://github.com/Dobryev-qa/Mobile/blob/main/Bugs_report.md)**  
   Documented defects with steps, expected/actual results, severity, and evidence.
-
 ---
